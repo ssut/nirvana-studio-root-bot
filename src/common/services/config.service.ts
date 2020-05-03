@@ -20,5 +20,11 @@ export class ConfigService {
         servername: env.REDIS_TLS_SERVERNAME,
       } : undefined,
     }),
+
+    shhan: Object.freeze({
+      radius: {
+        host: 'https://radius.airfly.io',
+      },
+    }),
   };
 }
