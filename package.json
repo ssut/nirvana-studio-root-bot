@@ -32,7 +32,7 @@
     "dotenv": "^8.2.0",
     "handy-redis": "^1.8.1",
     "phelia": "^0.1.4",
-    "qs": "^6.9.3",
+    "qs": "^6.9.7",
     "rate-limiter-flexible": "^2.1.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
